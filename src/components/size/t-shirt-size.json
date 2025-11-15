@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_size_t_shirt_sizes",
+  "info": {
+    "displayName": "T-shirt-size",
+    "icon": "priceTag"
+  },
+  "options": {},
+  "attributes": {
+    "size": {
+      "type": "enumeration",
+      "enum": [
+        "S.",
+        "M.",
+        "L.",
+        "XL."
+      ]
+    }
+  },
+  "config": {}
+}
